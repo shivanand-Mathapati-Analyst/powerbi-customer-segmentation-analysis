@@ -30,7 +30,6 @@
 - [ETL / Data Transformation](#-etl--data-transformation)
 - [Tech Stack](#️-tech-stack)
 - [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
 - [Business Problem & Insights](#-business-problem--insights)
 - [Key Insights (Summary)](#-key-insights-summary)
 - [Deep-Dive Analysis](#-deep-dive-analysis)
@@ -288,7 +287,6 @@ Data is ingested from a CSV source and cleaned entirely in **Power Query (M)**, 
 | **Power BI Desktop** | Report authoring, data modeling, bookmark-driven UX, visualization |
 | **DAX** | RFM scoring, segmentation logic, time intelligence, Pareto analysis, dynamic text |
 | **Power Query (M)** | Data cleaning, transformation & star-schema construction (ETL) |
-| **CSV (Online Retail, UCI)** | Source dataset |
 
 ---
 
@@ -299,8 +297,6 @@ Customer-Segmentation-Power-BI/
 │
 ├── dashboard/
 │   └── powerbi-customer-segmentation-analysis.pbix   # Main Power BI report file
-├── raw data/
-│   └── Online_Retail_Raw.csv                         # Source dataset
 ├── images/
 │   ├── 01-overview.png
 │   ├── 02-segmentation.png
@@ -310,19 +306,8 @@ Customer-Segmentation-Power-BI/
 │   ├── 06-drillthrough.png
 │   ├── 07-tooltips.png
 │   └── data-model.png
-├── documentation/
-│   └── Power_BI_Project_Documentation.docx           # Full build documentation
 └── README.md
 ```
-
----
-
-## 🚀 How to Use
-
-1. Open `powerbi-customer-segmentation-analysis.pbix` in **Power BI Desktop** (free download [here](https://powerbi.microsoft.com/desktop/))
-2. If prompted, update the data source path under **Transform Data → Data Source Settings** to point to your local copy of `Online_Retail_Raw.csv`
-3. Click **Refresh** to load the data, then navigate the report using the in-report sidebar buttons (Overview, Segmentation, Customers, Products, Insights)
-4. View the live, published version on the **Power BI Service**: *[Add Power BI Service link here]*
 
 ---
 
