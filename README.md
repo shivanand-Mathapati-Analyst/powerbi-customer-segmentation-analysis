@@ -2,7 +2,7 @@
 
 # 🧩 Customer Segmentation & Revenue Analysis — Power BI Dashboard
 
-### End-to-end RFM customer segmentation, revenue risk & churn intelligence dashboard built on the Online Retail (UCI) dataset
+### End-to-end RFM customer segmentation, revenue risk & churn intelligence dashboard built on the UK based Online Retail (UCI) dataset
 
 [![Tool](https://img.shields.io/badge/Tool-Power%20BI%20Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-49%20Measures-217346?style=for-the-badge&logo=microsoft&logoColor=white)](#-dax-measures)
