@@ -69,7 +69,7 @@ The goal was to go beyond basic sales reporting and develop a customer-focused a
 ## ✨ Key Features
 
 - **Single-page "app" architecture** — 5 full views (Overview, Segmentation, Customers, Products, Insights) built on one page, switched via **Bookmarks + Buttons** rather than standard page tabs, with a persistent sidebar (navigation + global slicers) that never resets between views
-- **49 custom DAX measures** — core KPIs, full RFM scoring engine (percentile-ranked R/F/M scores via `RANKX`), churn & retention metrics, cumulative revenue Pareto (80/20) curves for both customers and products, and dynamic DAX-generated insight sentences
+- **47 custom DAX measures** — core KPIs, full RFM scoring engine (percentile-ranked R/F/M scores via `RANKX`), churn & retention metrics, cumulative revenue Pareto (80/20) curves for both customers and products, and dynamic DAX-generated insight sentences
 - **RFM segmentation engine** built entirely in DAX — every customer scored 1–5 on Recency, Frequency, and Monetary value, then classified into 5 exhaustive, non-overlapping segments
 - **Drillthrough page** — right-click any customer to jump to a dedicated Customer Details page with their full transaction history, spending trend, RFM profile, and a dynamically colour-coded segment card
 - **Two custom Report Page tooltips** — hovering over the Top 10 Countries chart or the RFM scatter plot shows a rich mini-dashboard instead of Power BI's default tooltip
