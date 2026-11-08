@@ -5,7 +5,7 @@
 ### End-to-end RFM customer segmentation, revenue risk & churn intelligence dashboard built on the UK based Online Retail (UCI) dataset
 
 [![Tool](https://img.shields.io/badge/Tool-Power%20BI%20Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-49%20Measures-217346?style=for-the-badge&logo=microsoft&logoColor=white)](#-dax-measures)
+[![DAX](https://img.shields.io/badge/DAX-45+%20Measures-217346?style=for-the-badge&logo=microsoft&logoColor=white)](#-dax-measures)
 [![Power Query](https://img.shields.io/badge/Power%20Query-M%20Language-1E7145?style=for-the-badge)](#-etl--data-transformation)
 [![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-blue?style=for-the-badge)](#-data-model)
 [![UX](https://img.shields.io/badge/UX-Bookmark%20Driven%20Single--Page%20App-8A2BE2?style=for-the-badge)](#-key-features)
@@ -131,7 +131,7 @@ The model follows a **star-schema** approach with one central fact table and fou
 | **Dim_Products** | Dimension | 3,684 rows — one per unique product (StockCode + Description) |
 | **Dim_Countries** | Dimension | 37 rows — one per unique country |
 | **Dim_Date** | Dimension | DAX-generated calendar table (`CALENDAR()`), marked as an official Date Table |
-| **_Measures** | Measure table | Dedicated (disconnected/empty) table used purely to organize all 49 DAX measures outside the fact/dimension tables |
+| **_Measures** | Measure table | Dedicated (disconnected/empty) table used purely to organize all 45+ DAX measures outside the fact/dimension tables |
 
 **Key derived columns created in DAX** (on `Dim_Customers`):
 - `Recency`, `Frequency`, `Monetary` — the three raw RFM inputs
