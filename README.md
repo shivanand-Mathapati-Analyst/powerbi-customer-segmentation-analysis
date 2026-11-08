@@ -47,7 +47,11 @@ This project is a **single-page, app-style interactive Power BI dashboard** buil
 
 Rather than a stack of static report pages connected by plain tabs, this dashboard is built as **one page with five swappable views**, driven entirely by Power BI Bookmarks and Buttons — giving it a genuine web-app feel: a fixed sidebar for navigation and filtering, and a content area that swaps instantly between Overview, Segmentation, Customers, Products, and Insights.
 
-**This project is part of a multi-tool analytics portfolio.** The same underlying retail analytics skillset (RFM segmentation, revenue/profitability analysis, root-cause investigation) is also demonstrated on the Superstore dataset across Excel, SQL Server, and Power BI — see [Related Projects](#-related-projects).
+**This project is part of a three-tool analytics portfolio built on the same UK-based Online Retail dataset.**
+
+This project uses the same Online Retail dataset as my [Excel]() and [SQL Server]() projects, demonstrating how the same business problem can be analyzed and solved using three different analytics tools: **Power BI, SQL Server, and Excel**.
+
+The goal was to go beyond basic sales reporting and develop a customer-focused analytical solution that transforms transactional data into actionable insights. By leveraging **Power Query for data transformation, DAX for analytical calculations, and data modeling for structured analysis**, this project focuses on understanding customer value, identifying high-value and at-risk customer segments, evaluating revenue contribution, and uncovering opportunities to improve customer retention and business performance.
 
 | | |
 |---|---|
