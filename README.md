@@ -48,7 +48,7 @@ Rather than a stack of static report pages connected by plain tabs, this dashboa
 
 **This project is part of a three-tool analytics portfolio built on the same UK-based Online Retail dataset.**
 
-This project uses the same Online Retail dataset as my [Excel](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) and [SQL Server]() projects, demonstrating how the same business problem can be analyzed and solved using three different analytics tools: **Power BI, SQL Server, and Excel**.
+This project uses the same Online Retail dataset as my [Excel](https://github.com/shivanand-Mathapati-Analyst/excel-customer-segmentation-analysis) and [SQL Server](https://github.com/shivanand-Mathapati-Analyst/sql-customer-segmentation-analysis) projects, demonstrating how the same business problem can be analyzed and solved using three different analytics tools: **Power BI, SQL Server, and Excel**.
 
 The goal was to go beyond basic sales reporting and develop a customer-focused analytical solution that transforms transactional data into actionable insights. By leveraging **Power Query for data transformation, DAX for analytical calculations, and data modeling for structured analysis**, this project focuses on understanding customer value, identifying high-value and at-risk customer segments, evaluating revenue contribution, and uncovering opportunities to improve customer retention and business performance.
 
