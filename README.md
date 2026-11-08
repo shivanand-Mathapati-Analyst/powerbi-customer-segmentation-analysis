@@ -321,11 +321,11 @@ Revenue is not evenly spread across the customer base — it is heavily concentr
 
 | Segment | Customers | % of Base | Revenue Share |
 |---|---:|---:|---:|
-| Champions | 1,012 | 23.2% | 65.9% |
-| Loyal Customers | 863 | 19.7% | *[fill in]* |
-| Potential Loyalists | 769 | 17.6% | *[fill in]* |
-| At Risk | 943 | 21.6% | *[fill in]* |
-| Lost Customers | 784 | 17.9% | *[fill in]* |
+| Champions | 1,012 | 23.2% | 65.84% |
+| Loyal Customers | 863 | 19.7% | 12.71% |
+| Potential Loyalists | 769 | 17.6% | 6.38% |
+| At Risk | 943 | 21.6% | 13.09% |
+| Lost Customers | 784 | 17.9% | 1.98% |
 
 **39.5% of the customer base (At Risk + Lost Customers) represents real, quantifiable revenue exposure** — and with an overall churn rate of **33.2%** (customers with no purchase in 90+ days), the business is carrying meaningful retention risk sitting largely outside its most profitable segment.
 
@@ -380,14 +380,20 @@ The Product Revenue Pareto chart shows the same 80/20-style concentration seen i
 
 ## 🔗 Related Projects
 
-This project is part of a broader retail analytics portfolio. The same customer/business-analysis skillset is also demonstrated on the **Superstore** dataset across three different tools:
+Part of a multi-tool Customer Segmentation portfolio, built on the same Online Retail dataset:
 
 | Project | Tool | Link |
 |---|---|---|
-| 📊 Superstore Sales Analysis | Power BI | [github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project](https://github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project) |
+| 📊 Customer Segmentation Analysis (this same dataset) | Excel |  |
+| 🗄️ Customer Segmentation Analysis (this same dataset) | SQL Server |  |
+
+Also part of a broader retail analytics portfolio built on the Superstore dataset:
+
+| Project | Tool | Link |
+|---|---|---|
+| 📊 Superstore Sales Analysis | Power BI | [github.com/shivanand-Mathapati-Analyst/powerbi-sales-analysis-project](https://github.com/shivanand-Mathapati-Analyst/powerbi-superstore-sales-analysis) |
 | 🗄️ Superstore Sales Analysis | SQL Server | [github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/sql-superstore-sales-analysis) |
 | 📗 Superstore Sales Analysis | Excel | [github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis](https://github.com/shivanand-Mathapati-Analyst/excel-superstore-sales-analysis) |
-| 📗 Customer Segmentation Analysis (this project's Excel counterpart) | Excel | *[Add link here]* |
 
 ---
 
@@ -395,10 +401,10 @@ This project is part of a broader retail analytics portfolio. The same customer/
 
 **Shivanand S. Mathapati**
 
-- 🌐 Portfolio: [shivanand-mathapati.vercel.app](https://shivanand-mathapati.vercel.app)
-- 💼 LinkedIn: *[Add link here]*
-- 📺 YouTube: *[Add link here]*
-- ✉️ Email: *[Add email here]*
+- 🌐 Portfolio: 
+- 💼 LinkedIn: 
+- 📺 YouTube: 
+- ✉️ Email: 
 
 ---
 
