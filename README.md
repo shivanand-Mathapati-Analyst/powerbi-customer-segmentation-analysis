@@ -132,7 +132,6 @@ The model follows a **star-schema** approach with one central fact table and fou
 | **Dim_Countries** | Dimension | 37 rows — one per unique country |
 | **Dim_Date** | Dimension | DAX-generated calendar table (`CALENDAR()`), marked as an official Date Table |
 | **_Measures** | Measure table | Dedicated (disconnected/empty) table used purely to organize all 49 DAX measures outside the fact/dimension tables |
-| **Recommended_Action_Reference** | Reference | Small manually-entered table mapping each segment to a recommended action & priority, used on the Insights view |
 
 **Key derived columns created in DAX** (on `Dim_Customers`):
 - `Recency`, `Frequency`, `Monetary` — the three raw RFM inputs
