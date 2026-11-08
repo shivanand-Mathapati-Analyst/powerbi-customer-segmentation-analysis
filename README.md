@@ -147,11 +147,11 @@ Every customer is scored 1–5 on Recency, Frequency, and Monetary value, then c
 
 | Segment | Definition | Customers | % of Revenue |
 |---|---|---:|---:|
-| 🏆 **Champions** | R≥4, F≥4, M≥4 | 1,012 | 65.9% |
-| 💙 **Loyal Customers** | Mid-range across R/F/M (catch-all) | 863 | *[fill in]* |
-| 🔵 **Potential Loyalists** | R≥4, not yet a Champion | 769 | *[fill in]* |
-| 🟠 **At Risk** | R≤2, F≥3, M≥3 | 943 | *[fill in]* |
-| 🔴 **Lost Customers** | R≤2, F≤2, M≤2 | 784 | *[fill in]* |
+| 🏆 **Champions** | R≥4, F≥4, M≥4 | 1,012 | 65.84% |
+| 💙 **Loyal Customers** | Mid-range across R/F/M (catch-all) | 863 | 12.71% |
+| 🔵 **Potential Loyalists** | R≥4, not yet a Champion | 769 | 6.38% |
+| 🟠 **At Risk** | R≤2, F≥3, M≥3 | 943 | 13.09% |
+| 🔴 **Lost Customers** | R≤2, F≤2, M≤2 | 784 | 1.98% |
 
 > Champions make up roughly **23% of the customer base** but drive nearly **two-thirds of total revenue** — a textbook Pareto concentration that shapes almost every recommendation in this project.
 
